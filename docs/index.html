@@ -136,10 +136,10 @@
       }
 
       .hero-dtl {
-        margin-top: 2rem;
+        margin-bottom: 1.5rem;
         line-height: 0;
         opacity: 0;
-        animation: fadeUp 0.6s ease forwards 1s;
+        animation: fadeUp 0.6s ease forwards 0.1s;
       }
 
       .hero-dtl a {
@@ -148,7 +148,7 @@
       }
 
       .hero-dtl img {
-        height: 20px;
+        height: 40px;
         width: auto;
         opacity: 0.45;
         transition: opacity 0.2s;
@@ -670,18 +670,6 @@
         }
       }
 
-      .nav-dtl {
-        display: inline-block;
-        line-height: 0;
-        margin-left: 2rem;
-        vertical-align: middle;
-      }
-
-      .nav-dtl img {
-        height: 22px;
-        width: auto;
-      }
-
       .footer-logo {
         margin-bottom: 1rem;
       }
@@ -722,9 +710,6 @@
         .notify-form {
           flex-direction: column;
         }
-        .nav-dtl {
-          display: none;
-        }
         .footer-logo img {
           height: 20px;
         }
@@ -744,17 +729,19 @@
         <a href="https://github.com/pwnlegal/templates">GitHub</a>
         <a href="https://pwnlegal.slack.com">Slack</a>
         <a href="mailto:rich@pwn.legal">Contact</a>
-        <a href="https://deeptech.legal" class="nav-dtl"
-          ><img
-            src="https://assets.deeptech.legal/web/dtl_white.png"
-            alt="Deeptech Legal"
-        /></a>
       </div>
     </nav>
 
     <!-- HERO -->
 
     <div class="hero">
+      <div class="hero-dtl">
+        <a href="https://deeptech.legal"
+          ><img
+            src="https://assets.deeptech.legal/web/dtl_white.png"
+            alt="Deeptech Legal"
+        /></a>
+      </div>
       <div class="hero-prefix">
         Open source &middot;
         <a
@@ -783,13 +770,6 @@
           class="btn btn-secondary"
           >Join the Slack</a
         >
-      </div>
-      <div class="hero-dtl">
-        <a href="https://deeptech.legal"
-          ><img
-            src="https://assets.deeptech.legal/web/dtl_white.png"
-            alt="Deeptech Legal"
-        /></a>
       </div>
     </div>
 
