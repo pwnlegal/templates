@@ -24,8 +24,6 @@ The MSA and Standard terms contain mutual confidentiality commitments tailored t
 
 ## IASME Certification Bodies
 
-IASME is a registered trade mark of The IASME Consortium Limited. Cyber Essentials is a registered trade mark of the National Cyber Security Centre (NCSC). These templates are not endorsed by, affiliated with, or authorised by The IASME Consortium Limited or the NCSC.
-
 | Template                                     | File                                                                              |
 | -------------------------------------------- | --------------------------------------------------------------------------------- |
 | Standard terms                               | [`standard-terms.md`](templates/iasme-cb/standard-terms.md)                       |
@@ -38,6 +36,8 @@ IASME is a registered trade mark of The IASME Consortium Limited. Cyber Essentia
 | Schedule IoT Baseline                        | [`schedule-iot-baseline.md`](templates/iasme-cb/schedule-iot-baseline.md)         |
 | Schedule IoT Assurance                       | [`schedule-iot-assurance.md`](templates/iasme-cb/schedule-iot-assurance.md)       |
 | Schedule Maritime                            | [`schedule-maritime.md`](templates/iasme-cb/schedule-maritime.md)                 |
+
+IASME is a registered trade mark of The IASME Consortium Limited. Cyber Essentials is a registered trade mark of the National Cyber Security Centre (NCSC). These templates are not endorsed by, affiliated with, or authorised by The IASME Consortium Limited or the NCSC.
 
 The Standard Terms are designed to be used together with an Order Form for each engagement, and a Schedule for each certification scheme in scope of the engagement.
 
@@ -89,6 +89,6 @@ For bespoke drafting, regulatory advice, or retainer arrangements: [rich@pwn.leg
 
 ## Disclaimer
 
-Nothing in this repo constitutes legal advice. PLease adapt these templates to your circumstances with the benefit of independent legal advice.
+Nothing in this repo constitutes legal advice. Please adapt these templates to your circumstances with the benefit of independent legal advice.
 
 Enjoy!
