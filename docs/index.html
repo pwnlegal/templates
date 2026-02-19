@@ -647,21 +647,14 @@
         }
       }
 
-      .logo-bar {
-        display: flex;
-        justify-content: flex-end;
-        align-items: center;
-        margin-bottom: 3rem;
-        opacity: 0;
-        animation: fadeUp 0.6s ease forwards 0.1s;
-      }
-
-      .logo-bar a {
-        display: block;
+      .nav-dtl {
+        display: inline-block;
         line-height: 0;
+        margin-left: 2rem;
+        vertical-align: middle;
       }
 
-      .logo-bar .logo-dtl img {
+      .nav-dtl img {
         height: 22px;
         width: auto;
       }
@@ -676,7 +669,7 @@
       }
 
       .footer-logo img {
-        height: 13px;
+        height: 26px;
         width: auto;
         opacity: 0.45;
         transition: opacity 0.2s;
@@ -706,14 +699,14 @@
         .notify-form {
           flex-direction: column;
         }
-        .logo-bar .logo-dtl img {
-          height: 16px;
+        .nav-dtl {
+          margin-left: 1.2rem;
         }
-        .logo-bar {
-          margin-bottom: 2rem;
+        .nav-dtl img {
+          height: 18px;
         }
         .footer-logo img {
-          height: 10px;
+          height: 20px;
         }
         .notify-box {
           padding: 1.5rem;
@@ -731,19 +724,17 @@
         <a href="https://github.com/pwnlegal/templates">GitHub</a>
         <a href="https://pwnlegal.slack.com">Slack</a>
         <a href="mailto:rich@pwn.legal">Contact</a>
+        <a href="https://deeptech.legal" class="nav-dtl"
+          ><img
+            src="https://assets.deeptech.legal/web/dtl_white.png"
+            alt="Deeptech Legal"
+        /></a>
       </div>
     </nav>
 
     <!-- HERO -->
 
     <div class="hero">
-      <div class="logo-bar">
-        <a href="https://deeptech.legal" class="logo-dtl"
-          ><img
-            src="https://assets.deeptech.legal/web/dtl_white.png"
-            alt="Deeptech Legal"
-        /></a>
-      </div>
       <div class="hero-prefix">
         Open source &middot;
         <a
