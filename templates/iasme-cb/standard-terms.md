@@ -3,6 +3,8 @@
 *pwn.legal open-source template · CC BY 4.0*
 *For use by IASME-accredited certification bodies*
 
+> IASME is a registered trade mark of The IASME Consortium Limited. Cyber Essentials is a registered trade mark of the National Cyber Security Centre (NCSC). These templates are not endorsed by, affiliated with, or authorised by The IASME Consortium Limited or the NCSC.
+
 ---
 
 *These Standard Terms govern all certification engagements between the certification body and the Client. They are incorporated by reference into each Order Form.*

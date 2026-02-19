@@ -4,6 +4,8 @@ _pwn.legal open-source template · CC BY 4.0_
 
 _This Order Form is subject to the Standard Terms at `[URL / attached]`._
 
+> IASME is a registered trade mark of The IASME Consortium Limited. Cyber Essentials is a registered trade mark of the National Cyber Security Centre (NCSC). These templates are not endorsed by, affiliated with, or authorised by The IASME Consortium Limited or the NCSC.
+
 ---
 
 ## Engagement details

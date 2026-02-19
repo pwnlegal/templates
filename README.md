@@ -24,6 +24,8 @@ The MSA and Standard terms contain mutual confidentiality commitments tailored t
 
 ## IASME Certification Bodies
 
+IASME is a registered trade mark of The IASME Consortium Limited. Cyber Essentials is a registered trade mark of the National Cyber Security Centre (NCSC). These templates are not endorsed by, affiliated with, or authorised by The IASME Consortium Limited or the NCSC.
+
 | Template                                     | File                                                                              |
 | -------------------------------------------- | --------------------------------------------------------------------------------- |
 | Standard terms                               | [`standard-terms.md`](templates/iasme-cb/standard-terms.md)                       |
